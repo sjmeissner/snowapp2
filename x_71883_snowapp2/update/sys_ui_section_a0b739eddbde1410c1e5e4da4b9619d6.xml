@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a0b739eddbde1410c1e5e4da4b9619d6" sys_domain="global" table="x_71883_snowapp2_table1" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>68b739eddbde1410c1e5e4da4b9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>ecb739eddbde1410c1e5e4da4b9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>64b739eddbde1410c1e5e4da4b9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>2cb779eddbde1410c1e5e4da4b961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>a0b779eddbde1410c1e5e4da4b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>28b779eddbde1410c1e5e4da4b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>acb779eddbde1410c1e5e4da4b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>24b779eddbde1410c1e5e4da4b961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flag_1</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_id>a8b779eddbde1410c1e5e4da4b961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71883_snowapp2_table1" sys_domain="global" view="86531e62e1f1330078502406b6333319">a0b739eddbde1410c1e5e4da4b9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_71883_snowapp2_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-29 04:04:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0b739eddbde1410c1e5e4da4b9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_71883_snowapp2_table1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SnowApp2" source="x_71883_snowapp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SnowApp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_scope>
+            <sys_update_name>sys_ui_section_a0b739eddbde1410c1e5e4da4b9619d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-29 04:04:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">86531e62e1f1330078502406b6333319</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

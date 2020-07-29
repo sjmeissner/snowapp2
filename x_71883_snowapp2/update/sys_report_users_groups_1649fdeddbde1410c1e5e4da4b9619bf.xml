@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Report 1">da49fdeddbde1410c1e5e4da4b9619be</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 04:11:41</sys_created_on>
+        <sys_id>1649fdeddbde1410c1e5e4da4b9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>da49fdeddbde1410c1e5e4da4b9619be</sys_name>
+        <sys_package display_value="SnowApp2" source="x_71883_snowapp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SnowApp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_scope>
+        <sys_update_name>sys_report_users_groups_1649fdeddbde1410c1e5e4da4b9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 04:11:41</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>
