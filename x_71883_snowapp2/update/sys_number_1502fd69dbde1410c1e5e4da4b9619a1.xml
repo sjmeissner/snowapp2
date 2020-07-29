@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_71883_snowapp2_table1">x_71883_snowapp2_table1</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TAB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 03:39:56</sys_created_on>
+        <sys_id>1502fd69dbde1410c1e5e4da4b9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TAB</sys_name>
+        <sys_package display_value="SnowApp2" source="x_71883_snowapp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SnowApp2">ec71fd29dbde1410c1e5e4da4b9619d9</sys_scope>
+        <sys_update_name>sys_number_1502fd69dbde1410c1e5e4da4b9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 03:39:56</sys_updated_on>
+    </sys_number>
+</record_update>
